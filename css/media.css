@@ -1,0 +1,524 @@
+@media(min-width: 320px) and (max-width: 575px){
+    .navbar-toggler {
+        background-color: white;
+        border: none;
+        border-radius: 0px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0px;
+    }
+
+    .banner__heading {
+        font-size: 26px;
+        width: auto;
+    }
+
+    .banner__member {
+        font-size: 15px;
+        width: auto;
+
+    }
+
+    .banner__sub--heading {
+        font-size: 14px;
+        width: auto;
+    }
+
+    .banner__left {
+        width: auto;
+        margin-top: 180px;
+    }
+
+    .banner__img img {
+        display: none;
+    }
+
+    .header__button button {
+        font-size: 9px;
+        margin-left: 15px;
+        padding: 9px 15px !important;
+    }
+
+    /* bannner part end */
+
+    .welcome__about {
+        text-align: center;
+        margin-top: 20px !important;
+    }
+
+    .welcome__heading {
+        font-size: 26px;
+    }
+
+    .welcomea__sub--heading {
+        font-size: 12px;
+    }
+
+    /* Welcome part end */
+
+    .service__left--heading {
+        font-size: 33px;
+        width: auto;
+    }
+
+    .service__right--heading {
+        font-size: 14px;
+    }
+
+    /* Service part end */
+
+    .Relaiable--section {
+        margin-top: 88px;
+    }
+
+    .reliable__heading {
+        font-size: 27px;
+        width: auto;
+    }
+
+    .relaible__sub--heading {
+        font-size: 11px;
+        width: auto;
+    }
+
+    .reliable__heading2--left {
+        padding: 15px 0px!important;
+    }
+
+    /* Reliable part end */
+
+    .experience {
+        left: 46px;
+        bottom: 42px;
+        width: 211px;
+    }
+
+    .expert--section {
+        margin: 0px 0px;
+    }
+
+    .expert__left {
+        width: 130px;
+    }
+
+    .expert__right {
+        width: 118px;
+    }
+
+    .expert__heading {
+        font-size: 30px;
+    }
+
+    .expert__item {
+        margin-bottom: 37px;
+    }
+
+    .expert--section {
+        height: auto;
+    }
+
+    /* expert part end */
+
+    .faq__heading {
+        margin-top: 39px!important;
+        font-size: 25px;
+    }
+
+    /* Faq part end */
+
+    .counter__heading {
+        font-size: 26px;
+        width: auto;
+    }
+
+    .couter__digite{
+        font-size: 35px;
+        margin-right: 18px!important;
+        margin-top: 15px!important;
+    }
+
+    .couter__sub--heading {
+        font-size: 12px;
+    }
+
+    .couter__location {
+        font-size: 14px;
+    }
+
+    /* counter part end */
+
+    .client__item {
+        margin: 0 auto;
+        width: auto;
+    }
+
+    .client__detailes {
+        font-size: 11px;
+    }
+
+    .client__main--name {
+        font-size: 11px;
+    }
+
+    .client__position {
+        font-size: 6px;
+    }
+
+    /* client part end */
+
+    .latest__news {
+        font-size: 36px;
+    }
+
+    .news{
+        margin: auto;
+    }
+
+    /* news part end */
+
+    .product {
+        margin-top: 20px !important;
+    }
+
+    /* product part end */
+
+    .ellips{
+        width: 36%;
+    }
+
+    .pattern {
+        width: 15%;
+    }
+
+    /* banner position img part end */
+
+}
+
+@media(min-width: 576px) and (max-width: 767px){
+
+    .navbar-toggler {
+        background-color: white;
+        border: none;
+        border-radius: 0px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0px;
+    }
+
+    .banner__img img {
+        display: none;
+    }
+
+    .banner__left {
+        width: auto;
+    }
+
+    .banner__heading {
+        font-size: 41px;
+        width: auto;
+    }
+
+    .banner__left {
+        width: auto;
+        margin-top: 180px;
+    }
+
+    .header__button button {
+        padding: 9px 16px !important;
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    /* Banner part end */
+
+    .welcome__about {
+        text-align: center;
+        margin-top: 20px !important;
+    }
+
+    .welcome__heading {
+        font-size: 40px;
+    }
+    /* welcome part end */
+
+    .reliable__heading {
+        font-size: 37px;
+    }
+
+    .Relaiable--section {
+        margin-top: 92px;
+    }
+
+    .reliable__heading2--left {
+        padding: 15px 0px!important;
+    }
+
+    /* Reliable part end */
+
+    .expert--section {
+        margin: 0px 0px;
+    }
+
+    .expert__left {
+        width: 150px;
+    }
+
+    .expert__right {
+        width: 125px;
+    }
+
+    .expert__item {
+        margin-bottom: 40px;
+    }
+
+    .expert--section {
+        height: auto;
+    }
+
+    /* expert part end */
+
+    .ellips{
+        width: 20%;
+    }
+
+    .ellips3 {
+        width: 7%;
+    }
+
+    .pattern {
+        width: 11%;
+    }
+
+    /* banner position img part end */
+
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 12px;
+    }
+
+    .navbar-nav {
+        margin-left: 0px !important;
+    }
+
+    .header__button {
+        margin-left: 0px;
+    }
+
+    .header__button button {
+        padding: 10px 16px !important;
+        font-size: 13px;
+        margin-left: 15px;
+    }
+
+    .navbar-nav .nav-item a {
+        margin-left: 24px !important;
+    }   
+
+    .banner__left {
+        width: auto;
+    }
+
+    .banner__heading {
+        font-size: 35px;
+        width: auto;
+    }
+
+    .banner__sub--heading {
+        font-size: 16px;
+        width: auto;
+    }
+
+    /* Banner part end */
+
+    .welcomea__sub--heading {
+        padding-top: 12px !important;
+        font-size: 13px;
+    }
+
+    .welcome__heading {
+        font-size: 29px;
+    }
+
+    /* Welcome part end */
+
+    .service__left--heading {
+        font-size: 37px;
+        width: auto;
+    }
+
+    .service__right--heading {
+        font-size: 16px;
+    }
+
+    .slider__sub--heading {
+        padding: 4px 0px !important;
+        font-size: 11px;
+    }
+
+    .slider__heading {
+        padding-top: 30px !important;
+        font-size: 14px;
+    }
+
+    /* Service part end */
+
+    .reliable__heading {
+        font-size: 31px;
+        width: auto;
+    }
+
+    .relaible__sub--heading {
+        font-size: 13px;
+        width: auto;
+    }
+
+    .reliable__heading2--left {
+        font-size: 15px;
+    }
+
+    .relaiable__sub__heading2--left {
+        font-size: 10px;
+    }
+
+    /* relible part end */
+
+    .experience {
+        left: 58px;
+        bottom: 46px;
+    }
+
+    /* experience part end */
+
+    .expert--section {
+        margin: 55px 0px;
+    }
+
+    .expert__item {
+        margin-bottom: 37px;
+    }
+
+    .expert--section {
+        height: auto;
+    }
+
+    /* expert part end */
+
+    .faq__heading {
+        font-size: 31px;
+    }
+
+    /* Faq part end */
+
+    .counter__heading {
+        font-size: 24px;
+        width: auto;
+    }
+
+    .couter__digite{
+        font-size: 35px;
+        margin-right: 23px !important;
+    }
+
+    .couter__sub--heading {
+        font-size: 16px;
+    }
+
+    .couter__location {
+        font-size: 15px;
+    }
+
+    /* counter part end */
+
+    .client__item {
+        width: auto;
+    }
+
+    .client__detailes {
+        font-size: 12px;
+    }
+
+    /* client part end */
+
+}
+
+@media(min-width: 992px) and (max-width: 1199px){
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+    }
+
+    .navbar-nav .nav-item a {
+        margin-left: 28px !important;
+    }
+
+    .header__button {
+        margin-left: 30px;
+    }
+
+    .header__button button {
+        padding: 8px 11px !important;
+        font-size: 18px;
+        margin-left: 15px;
+    }
+
+    .banner__heading {
+        font-size: 50px;
+        width: auto;
+    }
+
+    .banner__left {
+        width: auto;
+    }
+
+    /* Banner part end */
+
+    .reliable__heading {
+        font-size: 39px;
+        width: auto;
+    }
+
+    .relaible__sub--heading {
+        font-size: 13px;
+        width: auto;
+    }
+
+    .reliable__heading2--left {
+        font-size: 19px;
+    }
+
+    .relaiable__sub__heading2--left {
+        font-size: 14px;
+    }
+
+    /* relible part end */
+
+    .expert--section {
+        margin: 55px 0px;
+    }
+
+    /* expert part end */
+
+    .faq__heading {
+        font-size: 43px;
+    }
+
+    /* Faq part end */
+
+    .counter__heading {
+        width: auto;
+    }
+
+    /* counter part end */
+
+    .client__item {
+        padding: 8px;
+        width: auto;
+    }
+
+    /* client part end */
+}
